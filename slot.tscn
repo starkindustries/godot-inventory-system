@@ -1,0 +1,15 @@
+[gd_scene load_steps=4 format=3 uid="uid://drjumk7dsrasd"]
+
+[ext_resource type="Texture2D" uid="uid://c2uhqsn17yalw" path="res://item_slot_default_background.png" id="1_jrlcp"]
+[ext_resource type="Script" path="res://slot.gd" id="2_ecnv0"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_hpsnc"]
+texture = ExtResource("1_jrlcp")
+region_rect = Rect2(0, 0, 18, 18)
+
+[node name="Slot1" type="Panel"]
+custom_minimum_size = Vector2i(18, 18)
+offset_right = 18.0
+offset_bottom = 18.0
+theme_override_styles/panel = SubResource("StyleBoxTexture_hpsnc")
+script = ExtResource("2_ecnv0")

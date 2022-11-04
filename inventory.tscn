@@ -22,95 +22,79 @@ theme_override_constants/v_separation = 4
 columns = 5
 
 [node name="Slot1" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 
 [node name="Slot21" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 22.0
 offset_right = 40.0
 
 [node name="Slot22" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 44.0
 offset_right = 62.0
 
 [node name="Slot23" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 66.0
 offset_right = 84.0
 
 [node name="Slot24" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 88.0
 offset_right = 106.0
 
 [node name="Slot25" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_top = 22.0
 offset_bottom = 40.0
 
 [node name="Slot26" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 22.0
 offset_top = 22.0
 offset_right = 40.0
 offset_bottom = 40.0
 
 [node name="Slot27" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 44.0
 offset_top = 22.0
 offset_right = 62.0
 offset_bottom = 40.0
 
 [node name="Slot28" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 66.0
 offset_top = 22.0
 offset_right = 84.0
 offset_bottom = 40.0
 
 [node name="Slot29" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 88.0
 offset_top = 22.0
 offset_right = 106.0
 offset_bottom = 40.0
 
 [node name="Slot30" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_top = 44.0
 offset_bottom = 62.0
 
 [node name="Slot31" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 22.0
 offset_top = 44.0
 offset_right = 40.0
 offset_bottom = 62.0
 
 [node name="Slot32" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 44.0
 offset_top = 44.0
 offset_right = 62.0
 offset_bottom = 62.0
 
 [node name="Slot33" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 66.0
 offset_top = 44.0
 offset_right = 84.0
 offset_bottom = 62.0
 
 [node name="Slot34" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_left = 88.0
 offset_top = 44.0
 offset_right = 106.0
 offset_bottom = 62.0
 
 [node name="Slot35" parent="GridContainer" instance=ExtResource("2_p8y7l")]
-layout_mode = 2
 offset_top = 66.0
 offset_bottom = 84.0
